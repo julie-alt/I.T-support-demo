@@ -4,7 +4,7 @@ import Hero from "./Components/Hero";
 import InfoBoxes from "./Components/InfoBoxes";
 import InfoSectionOne from "./Components/infoSections/InfoSectionOne";
 import InfoSectionTwo from "./Components/infoSections/InfoSectionTwo";
-import InfoSectionThree from "./Components/infoSections/infoSectionThree";
+import InfoSectionThree from "./Components/infoSections/InfoSectionThree";
 import Team from "./Components/Team";
 import InfoSectionFour from "./Components/infoSections/InfoSectionFour";
 import Blogs from "./Components/Blogs";
